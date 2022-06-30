@@ -1,4 +1,4 @@
-## Hi there, my name is Igor Candido and I'm developer!
+## Hi there, I'm Igor Candido, a Back-End Developer and in love about technologies!
 <div align="center">
   <a href="https://github.com/Igorcand">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Igorcand&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
