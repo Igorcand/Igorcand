@@ -22,7 +22,7 @@
   <a href = "mailto:igorcr39@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/igorc%C3%A2ndido/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <div>
-  <h1>Principais repositorios</h1>
+  <h1>Main repositories </h1>
   <h2>Flask projects</h2>
   <ul>
   <li><a href="https://github.com/Igorcand/Pydaria-Flask">Pydaria</a></li>
