@@ -28,29 +28,13 @@
   <li><a href="https://github.com/Igorcand/Pydaria-Flask">Pydaria</a></li>
   <li><a href="https://github.com/Igorcand/E-commerce-Flask">E-commerce</a></li>
   <li><a href="https://github.com/Igorcand/Rent-Control-Flask">Rent-Control</a></li>
-  <li><a href="https://github.com/Igorcand/Delivery">Delivery</a></li>
   <li><a href="https://github.com/Igorcand/OddsScanner-API">OddsScanner-API</a></li>
   <li><a href="https://github.com/Igorcand/Form-Lexus">Form-Lexus</a></li>
   <li><a href="https://github.com/Igorcand/Blog-with-Flask">Blog-with-Flask</a></li>
   <li><a href="https://github.com/Igorcand/Weather-App">Weather-App</a></li>
-  <li><a href="https://github.com/Igorcand/REST-API">REST-API</a></li>
   <li><a href="https://github.com/Igorcand/Social-Network">Social-Network</a></li>
-  <li><a href="https://github.com/Igorcand/CRUD-API">CRUD-API</a></li>
   </ul>
   
-   <h2>Python Logic-Programation</h2>
-  <ul>
-  <li><a href="https://github.com/Igorcand/Validador-CPF">Validador-CPF</a></li>
-  <li><a href="https://github.com/Igorcand/Validador-CNPJ">Validador-CNPJ</a></li>
-  <li><a href="https://github.com/Igorcand/Pergunta-e-Resposta">Pergunta-e-Resposta</a></li>
-  <li><a href="https://github.com/Igorcand/Cronograma-de-Tarefas">Cronograma-de-Tarefas</a></li>
-  <li><a href="https://github.com/Igorcand/Numero-por-Extenso">Numero-por-Extenso</a></li>
-  <li><a href="https://github.com/Igorcand/WhatsApp-Bot">WhatsApp-Bot</a></li>
-  <li><a href="https://github.com/Igorcand/Discord-Bot">Discord-Bot</a></li>
-  <li><a href="https://github.com/Igorcand/Exercicios">Exercicios</a></li>
-  <li><a href="https://github.com/Igorcand/Genetic-Algotihm">Genetic-Algotihm</a></li>
-  
-  </ul>
   
   <h2>HTML and CSS Projects</h2>
   <ul>
@@ -75,15 +59,6 @@
   <li><a href="https://github.com/Igorcand/Lampada">Lampada</a></li>
   <li><a href="https://github.com/Igorcand/DRUMKIT">DRUMKIT</a></li>
   <li><a href="https://github.com/Igorcand/IMC">IMC</a></li>
-  
-  </ul>
-  
-  <h2>IA python Projects</h2>
-  <ul>
-  <li><a href="https://github.com/Igorcand/Flappy-Bird">Flappy-Bird</a></li>
-  <li><a href="https://github.com/Igorcand/Iris-Dataset">Iris-Dataset</a></li>
-  <li><a href="https://github.com/Igorcand/Digits">Digits</a></li>
-  <li><a href="https://github.com/Igorcand/Advertising">Advertising</a></li>
   
   </ul>
   
