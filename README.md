@@ -21,48 +21,6 @@
 <div> 
   <a href = "mailto:igorcr39@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/igorc%C3%A2ndido/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <div>
-  <h1>Main repositories </h1>
-  <h2>Flask projects</h2>
-  <ul>
-  <li><a href="https://github.com/Igorcand/Pydaria-Flask">Pydaria</a></li>
-  <li><a href="https://github.com/Igorcand/E-commerce-Flask">E-commerce</a></li>
-  <li><a href="https://github.com/Igorcand/Rent-Control-Flask">Rent-Control</a></li>
-  <li><a href="https://github.com/Igorcand/OddsScanner-API">OddsScanner-API</a></li>
-  <li><a href="https://github.com/Igorcand/Form-Lexus">Form-Lexus</a></li>
-  <li><a href="https://github.com/Igorcand/Blog-with-Flask">Blog-with-Flask</a></li>
-  <li><a href="https://github.com/Igorcand/Weather-App">Weather-App</a></li>
-  <li><a href="https://github.com/Igorcand/Social-Network">Social-Network</a></li>
-  </ul>
-  
-  
-  <h2>HTML and CSS Projects</h2>
-  <ul>
-  <li><a href="https://github.com/Igorcand/Finance-Project">Finance-Project</a></li>
-  <li><a href="https://github.com/Igorcand/National-Museum-Project">National-Museum-Project</a></li>
-  <li><a href="https://github.com/Igorcand/Spotify-Project">Spotify-Project</a></li>
-  <li><a href="https://github.com/Igorcand/Responsive-Project">Responsive-Project</a></li>
-  <li><a href="https://github.com/Igorcand/Fashion-Project">Fashion-Project</a></li>
-  <li><a href="https://github.com/Igorcand/Strata-Project">Strata-Project</a></li>
-  <li><a href="https://github.com/Igorcand/Web-Project">Web-Project</a></li>
-  <li><a href="https://github.com/Igorcand/News-WebSite-Project">News-WebSite-Project</a></li>
-  <li><a href="https://github.com/Igorcand/TecBlog-Project">TecBlog-Project</a></li>
-  
-
-  </ul>
-  
-  <h2>JavaScript Projects</h2>
-  <ul>
-  <li><a href="https://github.com/Igorcand/Listas">Listas</a></li>
-  <li><a href="https://github.com/Igorcand/SlideShow">SlideShow</a></li>
-  <li><a href="https://github.com/Igorcand/Semaforo">Semaforo</a></li>
-  <li><a href="https://github.com/Igorcand/Lampada">Lampada</a></li>
-  <li><a href="https://github.com/Igorcand/DRUMKIT">DRUMKIT</a></li>
-  <li><a href="https://github.com/Igorcand/IMC">IMC</a></li>
-  
-  </ul>
-  
-  </div>
  
   ![Snake animation](https://github.com/Igorcand/Igorcand/blob/output/github-contribution-grid-snake.svg)
  
